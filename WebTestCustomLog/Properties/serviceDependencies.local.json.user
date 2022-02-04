@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-01-31T08:59:35.8390673Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2022-01-31T08:59:56.9633044Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "chok-test-insights"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "7874dd6f-3591-4b3a-84d8-9f42a96ccddd"
+    }
+  }
+}
